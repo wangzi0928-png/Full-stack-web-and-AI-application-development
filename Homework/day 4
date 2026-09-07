@@ -1,0 +1,4 @@
+After editing the file, the change is in the Working Directory
+Run git add filename, this moves the change to the Staging Area.
+Run git commit "message” will takes everything in the Staging Area, packs it into a submit version,  and stores it in your Local Repository
+Run git push, this uploads that commit from your Local Repository to the Remote Repository on GitHub.
