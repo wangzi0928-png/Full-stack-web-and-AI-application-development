@@ -1,0 +1,3 @@
+The repository I'm preparing this time is for a small game project. The content is roughly about creating a competitive game for my two good friends as characters
+My little game is developed with JavaScript. In the JavaScript ecosystem, Node.gitignore is a standard ignore file officially recommended by GitHub specifically for such projects. It precisely knows which files should not be submitted.
+The MIT license is the most popular open-source agreement worldwide, especially dominating the JavaScript/Node.js field. Countless well-known projects such as React and Node.js all adopt MIT. Choosing it means that my project follows industry practices and has the best compatibility.
